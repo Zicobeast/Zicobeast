@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zicobeast
-- 👀 I’m interested in learning c, c++,java
-- 🌱 I’m currently learning python
+- 👀 I’m interested in learning c, c++,python, js
+- 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
