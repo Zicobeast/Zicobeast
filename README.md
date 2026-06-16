@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zicobeast
-- 👀 I’m interested in learning c, c++,python, js
+- 👀 I’m interested in learning c++,python
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
